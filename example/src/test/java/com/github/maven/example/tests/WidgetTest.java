@@ -21,9 +21,6 @@ public class WidgetTest {
 		assertTrue(widget.isEnabled());
 	}
 
-	/**
-	 * Test enabling and disabling a {@link Widget}
-	 */
 	@Test
 	public void updateEnableState() {
 		Widget widget = new Widget();
