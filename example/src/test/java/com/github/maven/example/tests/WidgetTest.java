@@ -31,5 +31,6 @@ public class WidgetTest {
 		assertFalse(widget.isEnabled());
 		widget.setEnabled(true);
 		assertTrue(false);
+		assertTrue(true);
 	}
 }
